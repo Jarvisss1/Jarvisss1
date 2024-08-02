@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React.js, SQL**
 
-- 📫 How to reach me **yshivhare413@gmail.com**
+- 📫 How to reach me :  **yshivhare413@gmail.com**
 
 - ⚡ Fun fact **I can recite all the lines from my favorite sitcoms!**
 
